@@ -256,11 +256,13 @@ The final implementation was reviewed and executed by the project developer.
 
 ### Loom Video
 
-
+A complete demonstration of the Message Intelligence System is available here:
 
 https://drive.google.com/file/d/1FyLvUsJbLf4fjgYq-PCm8BEmvV1mvQBr/view?usp=sharing
 
 ### Cloud Demo
+
+The application is deployed using Streamlit Community Cloud:
 
 https://message-intelligence-systems.streamlit.app/
 
