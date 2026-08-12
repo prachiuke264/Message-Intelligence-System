@@ -275,13 +275,16 @@ def detect_type(message):
 
 
 def extract_date(message):
-
-    pattern = r'\b\d{4}-\d{2}-\d{2}\b'
-
-    match = re.search(
-        pattern,
-        message
+    pattern = (
+        r'\b\d{4}-\d{1,2}-\d{1,2}\b'
+        r'|\b\d{1,2}[-/]\d{1,2}[-/]\d{4}\b'
+        r'|\b(?:January|February|March|April|May|June|July|August|September|October|November|December)'
+        r'\s+\d{1,2}(?:,\s*|\s+)\d{4}\b'
+        r'|\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)'
+        r'\s+\d{1,2}(?:,\s*|\s+)\d{4}\b'
     )
+
+    match = re.search(pattern, message, re.IGNORECASE)
 
     if match:
         return match.group()
@@ -290,13 +293,8 @@ def extract_date(message):
 
 
 def extract_time(message):
-
-    pattern = r'\b\d{1,2}:\d{2}\s?(?:AM|PM|am|pm)?\b'
-
-    match = re.search(
-        pattern,
-        message
-    )
+    pattern = r'\b\d{1,2}(?::\d{2})?\s?(?:AM|PM|am|pm)\b'
+    match = re.search(pattern, message, re.IGNORECASE)
 
     if match:
         return match.group()
@@ -305,26 +303,19 @@ def extract_time(message):
 
 
 def extract_person(message):
-
     patterns = [
-        r'\bcall\s+(?:from\s+)?([A-Z][a-z]+)\b',
-        r'\bwith\s+([A-Z][a-z]+)\b',
-        r'\bto\s+([A-Z][a-z]+)\b',
-        r'\bfrom\s+([A-Z][a-z]+)\b'
+        r'\bcall\s+(?:from\s+)?([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b',
+        r'\bwith\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b',
+        r'\bto\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b',
+        r'\bfrom\s+([A-Z][a-z]+(?:\s+[A-Z][a-z]+)?)\b'
     ]
 
     for pattern in patterns:
-
-        match = re.search(
-            pattern,
-            message
-        )
-
+        match = re.search(pattern, message)
         if match:
             return match.group(1)
 
     return None
-
 
 def detect_priority(message):
 
