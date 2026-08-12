@@ -256,15 +256,14 @@ The final implementation was reviewed and executed by the project developer.
 
 ### Loom Video
 
-Add the final Loom demonstration link here:
 
-[LOOM_LINK]
+
+https://drive.google.com/file/d/1FyLvUsJbLf4fjgYq-PCm8BEmvV1mvQBr/view?usp=sharing
 
 ### Cloud Demo
 
-Add the deployed cloud application URL here:
+https://message-intelligence-systems.streamlit.app/
 
-[CLOUD_DEMO_URL]
 
 ---
 
