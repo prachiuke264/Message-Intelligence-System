@@ -1,0 +1,366 @@
+item_id,type,title,date_or_deadline,time,person,priority,source_message_id
+TASK_number001,task,Can you review the privacy checklist before 2026-09-09?,2026-09-09,,,low,MSG_0002
+TASK_number002,task,FYI: Reminder: mentor catch-up happens on 2026-09-16 at 11:00 in the city clinic,2026-09-16,11:00 ,,low,MSG_0003
+TASK_number003,task,Can you help? Don't forget to pay the electricity bill; deadline is 2026-09-09.,2026-09-09,,,low,MSG_0010
+MEETING_number004,meeting,"Just checking—Please join the internship orientation on 2026-09-18, 13:00 at Con",2026-09-18,13:00 ,,low,MSG_0011
+TASK_number005,task,FYI: I will send the login details separately.,,,,low,MSG_0012
+TASK_number006,task,Can you help? I need you to review the model results by 2026-09-03.,2026-09-03,,,low,MSG_0019
+EVENT_number007,event,One more thing: The webinar recording is now available.,,,,low,MSG_0021
+MEETING_number008,meeting,Just checking—I might prefer evening meetings now.,,,,low,MSG_0024
+MEETING_number009,meeting,Please note: Please confirm the interview slot by 2026-09-05.,2026-09-05,,,low,MSG_0027
+TASK_number010,task,For today: Don't forget to email the signed document; deadline is 2026-09-04.,2026-09-04,,,low,MSG_0028
+TASK_number011,task,Important: Don't forget to upload the assignment; deadline is 2026-09-09.,2026-09-09,,,medium,MSG_0032
+EVENT_number012,event,Just checking—The event registration desk opens at 9 AM.,,,,low,MSG_0033
+MEETING_number013,meeting,"Please note: Please join the internship orientation on 2026-09-18, 9:00 at Confe",2026-09-18,9:00 ,,low,MSG_0034
+TASK_number014,task,For today: Complete the onboarding form is due on 2026-09-10.,2026-09-10,,,low,MSG_0035
+MEETING_number015,meeting,"Please join the study-group session on 2026-09-13, 12:00 at Google Meet.",2026-09-13,12:00 ,,low,MSG_0036
+TASK_number016,task,One more thing: The review could be Friday afternoon.,,,,low,MSG_0037
+TASK_number017,task,"For today: If possible, review the file before the meeting.",,,,low,MSG_0041
+MEETING_number018,meeting,For today: The client discussion is scheduled for 2026-09-12 at 11:00 in Meeting,2026-09-12,11:00 ,,low,MSG_0042
+TASK_number019,task,Just checking—Please complete the Python exercise by 2026-09-09.,2026-09-09,,,low,MSG_0044
+TASK_number020,task,Important: Complete the onboarding form is due on 2026-09-07.,2026-09-07,,,medium,MSG_0045
+TASK_number021,task,For today: Don't forget to call the service centre; deadline is 2026-09-09.,2026-09-09,,,low,MSG_0046
+EVENT_number022,event,Important: The webinar recording is now available.,,,,medium,MSG_0050
+TASK_number023,task,Important: Reminder: doctor appointment happens on 2026-09-16 at 15:00 in the ci,2026-09-16,15:00 ,,medium,MSG_0051
+TASK_number024,task,Just checking—The review could be Friday afternoon.,,,,low,MSG_0054
+MEETING_number025,meeting,The client discussion is scheduled for 2026-09-07 at 14:00 in Zoom.,2026-09-07,14:00 ,,low,MSG_0055
+TASK_number026,task,Please note: Please call Maya when you are free.,,,Maya,low,MSG_0056
+TASK_number027,task,Please note: I will send the login details separately.,,,,low,MSG_0057
+TASK_number028,task,Quick update: Can you review the privacy checklist before 2026-09-04?,2026-09-04,,,low,MSG_0058
+TASK_number029,task,Quick update: Complete the onboarding form is due on 2026-09-08.,2026-09-08,,,low,MSG_0060
+MEETING_number030,meeting,"Please join the AI workshop on 2026-09-08, 15:00 at Conference Room 2.",2026-09-08,15:00 ,,low,MSG_0062
+EVENT_number031,event,Can you help? The event registration desk opens at 9 AM.,,,,low,MSG_0064
+TASK_number032,task,One more thing: Don't forget to email the signed document; deadline is 2026-09-0,2026-09-07,,,low,MSG_0065
+TASK_number033,task,Can you help? The project review is scheduled for 2026-09-02 at 9:00 in Meeting ,2026-09-02,9:00 ,,low,MSG_0066
+MEETING_number034,meeting,"FYI: Please join the AI workshop on 2026-09-13, 16:00 at Google Meet.",2026-09-13,16:00 ,,low,MSG_0067
+MEETING_number035,meeting,"Hi, I might prefer evening meetings now.",,,,low,MSG_0084
+TASK_number036,task,One more thing: Can you finish the test cases before 2026-09-08?,2026-09-08,,,low,MSG_0088
+TASK_number037,task,Just checking—Don't forget to call the service centre; deadline is 2026-09-04.,2026-09-04,,,low,MSG_0089
+EVENT_number038,event,Quick update: The event registration desk opens at 9 AM.,,,,low,MSG_0096
+TASK_number039,task,Quick update: The review could be Friday afternoon.,,,,low,MSG_0098
+TASK_number040,task,"Hi, Reminder: sprint planning happens on 2026-09-16 at 11:00 in the city clinic.",2026-09-16,11:00 ,,low,MSG_0100
+TASK_number041,task,Don't forget to email the signed document; deadline is 2026-09-07.,2026-09-07,,,low,MSG_0101
+TASK_number042,task,FYI: Can you send the revised presentation before 2026-09-08?,2026-09-08,,,low,MSG_0102
+MEETING_number043,meeting,Important: Are you available for the technical interview at 16:00 on 2026-09-05?,2026-09-05,16:00 ,,medium,MSG_0103
+TASK_number044,task,"FYI: If possible, review the file before the meeting.",,,,low,MSG_0110
+TASK_number045,task,FYI: I need you to review the model results by 2026-09-10.,2026-09-10,,,low,MSG_0111
+TASK_number046,task,Just checking—Can you send the revised presentation before 2026-09-04?,2026-09-04,,,low,MSG_0112
+TASK_number047,task,Quick update: Prepare the demo video is due on 2026-09-09.,2026-09-09,,,low,MSG_0113
+TASK_number048,task,Please complete the Python exercise by 2026-09-08.,2026-09-08,,,low,MSG_0114
+TASK_number049,task,Quick update: Don't forget to call the service centre; deadline is 2026-09-07.,2026-09-07,,,low,MSG_0115
+TASK_number050,task,Can you help? Send the expense receipt is due on 2026-09-08.,2026-09-08,,,low,MSG_0119
+TASK_number051,task,"Hi, Please call Maya when you are free.",,,Maya,low,MSG_0121
+TASK_number052,task,"Hi, Reminder: mentor catch-up happens on 2026-09-11 at 14:00 in the cafeteria.",2026-09-11,14:00 ,,low,MSG_0122
+TASK_number053,task,Please note: Reminder: mentor catch-up happens on 2026-09-06 at 9:00 in the city,2026-09-06,9:00 ,,low,MSG_0124
+TASK_number054,task,FYI: Reminder: doctor appointment happens on 2026-09-11 at 14:00 in the cafeteri,2026-09-11,14:00 ,,low,MSG_0127
+TASK_number055,task,One more thing: The project review is scheduled for 2026-09-17 at 16:00 in Zoom.,2026-09-17,16:00 ,,low,MSG_0131
+MEETING_number056,meeting,Important: Let us meet sometime next week.,,,,medium,MSG_0133
+TASK_number057,task,Quick update: Reminder: mentor catch-up happens on 2026-09-21 at 16:00 in the ca,2026-09-21,16:00 ,,low,MSG_0135
+TASK_number058,task,Prepare the demo video is due on 2026-09-05.,2026-09-05,,,low,MSG_0136
+EVENT_number059,event,For today: The event registration desk opens at 9 AM.,,,,low,MSG_0141
+TASK_number060,task,Please note: Don't forget to call the service centre; deadline is 2026-09-05.,2026-09-05,,,low,MSG_0144
+TASK_number061,task,FYI: Please complete the Python exercise by 2026-09-04.,2026-09-04,,,low,MSG_0145
+TASK_number062,task,FYI: Prepare the demo video is due on 2026-09-10.,2026-09-10,,,low,MSG_0147
+TASK_number063,task,Can you help? I will send the login details separately.,,,,low,MSG_0148
+EVENT_number064,event,"Hi, The event registration desk opens at 9 AM.",,,,low,MSG_0149
+TASK_number065,task,One more thing: Don't forget to call the service centre; deadline is 2026-09-03.,2026-09-03,,,low,MSG_0150
+TASK_number066,task,FYI: The project review is scheduled for 2026-09-07 at 10:00 in Zoom.,2026-09-07,10:00 ,,low,MSG_0151
+TASK_number067,task,"Hi, Can you finish the test cases before 2026-09-07?",2026-09-07,,,low,MSG_0153
+EVENT_number068,event,"Hi, The webinar recording is now available.",,,,low,MSG_0159
+TASK_number069,task,Important: Please submit the weekly report by 2026-09-05.,2026-09-05,,,medium,MSG_0160
+MEETING_number070,meeting,"Important: Please join the study-group session on 2026-09-03, 14:00 at Google Me",2026-09-03,14:00 ,,medium,MSG_0162
+TASK_number071,task,FYI: Don't forget to call the service centre; deadline is 2026-09-08.,2026-09-08,,,low,MSG_0163
+MEETING_number072,meeting,"Hi, Please join the AI workshop on 2026-09-08, 11:00 at Conference Room 2.",2026-09-08,11:00 ,,low,MSG_0168
+TASK_number073,task,Important: Reminder: sprint planning happens on 2026-09-06 at 9:00 in the city c,2026-09-06,9:00 ,,medium,MSG_0169
+TASK_number074,task,FYI: Share the meeting notes is due on 2026-09-05.,2026-09-05,,,low,MSG_0170
+MEETING_number075,meeting,For today: Please confirm the interview slot by 2026-09-09.,2026-09-09,,,low,MSG_0171
+TASK_number076,task,One more thing: I need you to review the model results by 2026-09-05.,2026-09-05,,,low,MSG_0173
+TASK_number077,task,Just checking—I need you to review the model results by 2026-09-06.,2026-09-06,,,low,MSG_0175
+TASK_number078,task,FYI: Reminder: sprint planning happens on 2026-09-21 at 16:00 in the cafeteria.,2026-09-21,16:00 ,,low,MSG_0177
+MEETING_number079,meeting,FYI: I might prefer evening meetings now.,,,,low,MSG_0189
+TASK_number080,task,"If possible, review the file before the meeting.",,,,low,MSG_0190
+TASK_number081,task,Please call Maya when you are free.,,,Maya,low,MSG_0193
+MEETING_number082,meeting,One more thing: Please confirm the interview slot by 2026-09-03.,2026-09-03,,,low,MSG_0195
+EVENT_number083,event,Please note: The event registration desk opens at 9 AM.,,,,low,MSG_0197
+TASK_number084,task,"Hi, If possible, review the file before the meeting.",,,,low,MSG_0198
+TASK_number085,task,One more thing: Prepare the demo video is due on 2026-09-05.,2026-09-05,,,low,MSG_0203
+MEETING_number086,meeting,FYI: Let us meet sometime next week.,,,,low,MSG_0207
+TASK_number087,task,Quick update: Please submit the weekly report by 2026-09-06.,2026-09-06,,,low,MSG_0208
+TASK_number088,task,Just checking—Can you finish the test cases before 2026-09-09?,2026-09-09,,,low,MSG_0210
+TASK_number089,task,FYI: The review could be Friday afternoon.,,,,low,MSG_0213
+TASK_number090,task,For today: Can you review the privacy checklist before 2026-09-06?,2026-09-06,,,low,MSG_0215
+TASK_number091,task,Important: The project review is scheduled for 2026-09-12 at 11:00 in Meeting Ro,2026-09-12,11:00 ,,medium,MSG_0216
+TASK_number092,task,Please note: The review could be Friday afternoon.,,,,low,MSG_0217
+TASK_number093,task,Reminder: sprint planning happens on 2026-09-16 at 15:00 in the city clinic.,2026-09-16,15:00 ,,low,MSG_0218
+TASK_number094,task,Quick update: Send the expense receipt is due on 2026-09-05.,2026-09-05,,,low,MSG_0219
+MEETING_number095,meeting,Important: Please confirm the interview slot by 2026-09-06.,2026-09-06,,,medium,MSG_0220
+TASK_number096,task,FYI: Can you finish the test cases before 2026-09-04?,2026-09-04,,,low,MSG_0221
+MEETING_number097,meeting,"One more thing: Please join the internship orientation on 2026-09-18, 9:00 at Co",2026-09-18,9:00 ,,low,MSG_0222
+MEETING_number098,meeting,"Hi, Please join the study-group session on 2026-09-13, 16:00 at Google Meet.",2026-09-13,16:00 ,,low,MSG_0223
+EVENT_number099,event,One more thing: The event registration desk opens at 9 AM.,,,,low,MSG_0224
+MEETING_number100,meeting,"One more thing: Just so you know, i prefer morning meetings.",,,,low,MSG_0228
+TASK_number101,task,Quick update: Can you send the revised presentation before 2026-09-07?,2026-09-07,,,low,MSG_0231
+MEETING_number102,meeting,"One more thing: Please join the AI workshop on 2026-09-03, 14:00 at Google Meet.",2026-09-03,14:00 ,,low,MSG_0244
+TASK_number103,task,One more thing: Please complete the Python exercise by 2026-09-08.,2026-09-08,,,low,MSG_0245
+TASK_number104,task,Important: Reminder: mentor catch-up happens on 2026-09-21 at 12:00 in the cafet,2026-09-21,12:00 ,,medium,MSG_0249
+TASK_number105,task,Don't forget to call the service centre; deadline is 2026-09-03.,2026-09-03,,,low,MSG_0251
+EVENT_number106,event,Can you help? The webinar recording is now available.,,,,low,MSG_0253
+MEETING_number107,meeting,"Hi, Please join the internship orientation on 2026-09-03, 14:00 at Google Meet.",2026-09-03,14:00 ,,low,MSG_0255
+MEETING_number108,meeting,One more thing: The client discussion is scheduled for 2026-09-02 at 13:00 in Me,2026-09-02,13:00 ,,low,MSG_0258
+TASK_number109,task,"Hi, Don't forget to pay the electricity bill; deadline is 2026-09-10.",2026-09-10,,,low,MSG_0265
+TASK_number110,task,Please note: Reminder: sprint planning happens on 2026-09-11 at 14:00 in the caf,2026-09-11,14:00 ,,low,MSG_0268
+TASK_number111,task,For today: Don't forget to upload the assignment; deadline is 2026-09-03.,2026-09-03,,,low,MSG_0269
+TASK_number112,task,For today: Are you available for the design review at 14:00 on 2026-09-15? Locat,2026-09-15,14:00 ,,low,MSG_0271
+MEETING_number113,meeting,One more thing: Let us meet sometime next week.,,,,low,MSG_0278
+TASK_number114,task,Quick update: Share the meeting notes is due on 2026-09-04.,2026-09-04,,,low,MSG_0280
+MEETING_number115,meeting,Please note: Are you available for the technical interview at 13:00 on 2026-09-1,2026-09-10,13:00 ,,low,MSG_0282
+TASK_number116,task,Important: Don't forget to call the service centre; deadline is 2026-09-06.,2026-09-06,,,medium,MSG_0283
+TASK_number117,task,Important: Can you finish the test cases before 2026-09-02?,2026-09-02,,,medium,MSG_0289
+TASK_number118,task,Quick update: Are you available for the design review at 15:00 on 2026-09-20? Lo,2026-09-20,15:00 ,,low,MSG_0293
+TASK_number119,task,Reminder: mentor catch-up happens on 2026-09-11 at 10:00 in the cafeteria.,2026-09-11,10:00 ,,low,MSG_0294
+MEETING_number120,meeting,Important: The client discussion is scheduled for 2026-09-17 at 16:00 in Zoom.,2026-09-17,16:00 ,,medium,MSG_0302
+TASK_number121,task,Please note: I need you to review the model results by 2026-09-07.,2026-09-07,,,low,MSG_0306
+TASK_number122,task,"Hi, Can you send the revised presentation before 2026-09-02?",2026-09-02,,,low,MSG_0307
+TASK_number123,task,Can you help? Don't forget to email the signed document; deadline is 2026-09-05.,2026-09-05,,,low,MSG_0309
+TASK_number124,task,Could you send it soon?,,,,medium,MSG_0310
+MEETING_number125,meeting,"For today: Please join the study-group session on 2026-09-18, 9:00 at Conference",2026-09-18,9:00 ,,low,MSG_0311
+MEETING_number126,meeting,Please confirm the interview slot by 2026-09-03.,2026-09-03,,,low,MSG_0314
+MEETING_number127,meeting,FYI: Are you available for the technical interview at 15:00 on 2026-09-20? Locat,2026-09-20,15:00 ,,low,MSG_0316
+TASK_number128,task,Can you send the revised presentation before 2026-09-03?,2026-09-03,,,low,MSG_0317
+MEETING_number129,meeting,Quick update: Remember that i prefer morning meetings.,,,,low,MSG_0319
+TASK_number130,task,Can you help? Could you send it soon?,,,,medium,MSG_0323
+EVENT_number131,event,For today: Are you available for the college seminar at 9:00 on 2026-09-10? Loca,2026-09-10,9:00 ,,low,MSG_0327
+MEETING_number132,meeting,"Please note: Please join the AI workshop on 2026-09-03, 14:00 at Google Meet.",2026-09-03,14:00 ,,low,MSG_0330
+TASK_number133,task,Can you help? Complete the onboarding form is due on 2026-09-02.,2026-09-02,,,low,MSG_0331
+MEETING_number134,meeting,Quick update: Please confirm the interview slot by 2026-09-07.,2026-09-07,,,low,MSG_0335
+MEETING_number135,meeting,"Hi, The product demo is scheduled for 2026-09-12 at 15:00 in Meeting Room A.",2026-09-12,15:00 ,,low,MSG_0338
+TASK_number136,task,Quick update: Don't forget to pay the electricity bill; deadline is 2026-09-06.,2026-09-06,,,low,MSG_0339
+MEETING_number137,meeting,Can you help? The product demo is scheduled for 2026-09-12 at 11:00 in Meeting R,2026-09-12,11:00 ,,low,MSG_0342
+TASK_number138,task,Just checking—Don't forget to upload the assignment; deadline is 2026-09-07.,2026-09-07,,,low,MSG_0345
+MEETING_number139,meeting,Let us meet sometime next week.,,,,low,MSG_0350
+MEETING_number140,meeting,Can you help? Let us meet sometime next week.,,,,low,MSG_0354
+MEETING_number141,meeting,FYI: The client discussion is scheduled for 2026-09-12 at 15:00 in Meeting Room ,2026-09-12,15:00 ,,low,MSG_0356
+TASK_number142,task,Just checking—The project review is scheduled for 2026-09-17 at 12:00 in Zoom.,2026-09-17,12:00 ,,low,MSG_0357
+TASK_number143,task,Send the expense receipt is due on 2026-09-10.,2026-09-10,,,low,MSG_0358
+MEETING_number144,meeting,"Hi, Are you available for the technical interview at 10:00 on 2026-09-15? Locati",2026-09-15,10:00 ,,low,MSG_0359
+TASK_number145,task,Important: Prepare the demo video is due on 2026-09-08.,2026-09-08,,,medium,MSG_0361
+TASK_number146,task,Can you help? Are you available for the design review at 9:00 on 2026-09-10? Loc,2026-09-10,9:00 ,,low,MSG_0363
+TASK_number147,task,Please note: Don't forget to email the signed document; deadline is 2026-09-09.,2026-09-09,,,low,MSG_0368
+TASK_number148,task,Please note: Please submit the weekly report by 2026-09-04.,2026-09-04,,,low,MSG_0369
+MEETING_number149,meeting,Can you help? Remember that i prefer morning meetings.,,,,low,MSG_0371
+MEETING_number150,meeting,"FYI: Just so you know, i prefer morning meetings.",,,,low,MSG_0372
+TASK_number151,task,"One more thing: If possible, review the file before the meeting.",,,,low,MSG_0377
+MEETING_number152,meeting,"Important: Please join the internship orientation on 2026-09-13, 12:00 at Google",2026-09-13,12:00 ,,medium,MSG_0378
+TASK_number153,task,One more thing: Please submit the weekly report by 2026-09-02.,2026-09-02,,,low,MSG_0379
+TASK_number154,task,For today: The project review is scheduled for 2026-09-07 at 14:00 in Zoom.,2026-09-07,14:00 ,,low,MSG_0382
+EVENT_number155,event,Just checking—The webinar recording is now available.,,,,low,MSG_0383
+EVENT_number156,event,"Hi, Are you available for the college seminar at 16:00 on 2026-09-05? Location: ",2026-09-05,16:00 ,,low,MSG_0384
+TASK_number157,task,FYI: Could you send it soon?,,,,medium,MSG_0386
+TASK_number158,task,Quick update: Could you send it soon?,,,,medium,MSG_0393
+TASK_number159,task,FYI: Don't forget to email the signed document; deadline is 2026-09-03.,2026-09-03,,,low,MSG_0394
+TASK_number160,task,"Hi, Please complete the Python exercise by 2026-09-07.",2026-09-07,,,low,MSG_0396
+TASK_number161,task,FYI: Complete the onboarding form is due on 2026-09-09.,2026-09-09,,,low,MSG_0398
+MEETING_number162,meeting,One more thing: I might prefer evening meetings now.,,,,low,MSG_0402
+TASK_number163,task,Quick update: Reminder: doctor appointment happens on 2026-09-16 at 11:00 in the,2026-09-16,11:00 ,,low,MSG_0405
+TASK_number164,task,Important: Can you send the revised presentation before 2026-09-06?,2026-09-06,,,medium,MSG_0407
+MEETING_number165,meeting,Remember that i prefer morning meetings.,,,,low,MSG_0408
+TASK_number166,task,Can you help? Please call Maya when you are free.,,,Maya,low,MSG_0410
+MEETING_number167,meeting,Quick update: Are you available for the technical interview at 12:00 on 2026-09-,2026-09-05,12:00 ,,low,MSG_0413
+TASK_number168,task,One more thing: Are you available for the design review at 16:00 on 2026-09-05? ,2026-09-05,16:00 ,,low,MSG_0414
+TASK_number169,task,One more thing: Complete the onboarding form is due on 2026-09-04.,2026-09-04,,,low,MSG_0420
+TASK_number170,task,Quick update: Please complete the Python exercise by 2026-09-03.,2026-09-03,,,low,MSG_0422
+MEETING_number171,meeting,Quick update: The product demo is scheduled for 2026-09-02 at 9:00 in Meeting Ro,2026-09-02,9:00 ,,low,MSG_0423
+TASK_number172,task,Just checking—Reminder: sprint planning happens on 2026-09-11 at 10:00 in the ca,2026-09-11,10:00 ,,low,MSG_0424
+TASK_number173,task,Important: I need you to review the model results by 2026-09-08.,2026-09-08,,,medium,MSG_0425
+TASK_number174,task,Please note: The project review is scheduled for 2026-09-17 at 16:00 in Zoom.,2026-09-17,16:00 ,,low,MSG_0427
+MEETING_number175,meeting,"FYI: Please join the internship orientation on 2026-09-08, 11:00 at Conference R",2026-09-08,11:00 ,,low,MSG_0430
+EVENT_number176,event,The event registration desk opens at 9 AM.,,,,low,MSG_0431
+EVENT_number177,event,Please note: The webinar recording is now available.,,,,low,MSG_0434
+MEETING_number178,meeting,"For today: Just so you know, i prefer morning meetings.",,,,low,MSG_0437
+TASK_number179,task,One more thing: Please call Maya when you are free.,,,Maya,low,MSG_0438
+MEETING_number180,meeting,Quick update: Let us meet sometime next week.,,,,low,MSG_0444
+MEETING_number181,meeting,One more thing: Are you available for the technical interview at 13:00 on 2026-0,2026-09-10,13:00 ,,low,MSG_0445
+MEETING_number182,meeting,"Important: Please join the AI workshop on 2026-09-18, 9:00 at Conference Room 2.",2026-09-18,9:00 ,,medium,MSG_0449
+EVENT_number183,event,Important: Are you available for the college seminar at 14:00 on 2026-09-15? Loc,2026-09-15,14:00 ,,medium,MSG_0450
+EVENT_number184,event,Important: The event registration desk opens at 9 AM.,,,,medium,MSG_0452
+MEETING_number185,meeting,Just checking—The client discussion is scheduled for 2026-09-02 at 9:00 in Meeti,2026-09-02,9:00 ,,low,MSG_0456
+TASK_number186,task,"Can you help? If possible, review the file before the meeting.",,,,low,MSG_0457
+TASK_number187,task,Quick update: I will send the login details separately.,,,,low,MSG_0460
+TASK_number188,task,Can you help? The review could be Friday afternoon.,,,,low,MSG_0462
+TASK_number189,task,"Hi, Reminder: doctor appointment happens on 2026-09-06 at 9:00 in the city clini",2026-09-06,9:00 ,,low,MSG_0465
+TASK_number190,task,I need you to review the model results by 2026-09-05.,2026-09-05,,,low,MSG_0467
+TASK_number191,task,Can you help? Can you finish the test cases before 2026-09-06?,2026-09-06,,,low,MSG_0468
+TASK_number192,task,Please note: Send the expense receipt is due on 2026-09-03.,2026-09-03,,,low,MSG_0473
+MEETING_number193,meeting,FYI: Please confirm the interview slot by 2026-09-08.,2026-09-08,,,low,MSG_0480
+TASK_number194,task,Please note: Can you review the privacy checklist before 2026-09-02?,2026-09-02,,,low,MSG_0481
+TASK_number195,task,"Hi, Send the expense receipt is due on 2026-09-09.",2026-09-09,,,low,MSG_0485
+TASK_number196,task,One more thing: Could you send it soon?,,,,medium,MSG_0486
+TASK_number197,task,Just checking—Can you review the privacy checklist before 2026-09-10?,2026-09-10,,,low,MSG_0487
+TASK_number198,task,For today: Reminder: mentor catch-up happens on 2026-09-16 at 15:00 in the city ,2026-09-16,15:00 ,,low,MSG_0488
+MEETING_number199,meeting,Please note: I might prefer evening meetings now.,,,,low,MSG_0489
+TASK_number200,task,Please note: Could you send it soon?,,,,medium,MSG_0492
+TASK_number201,task,Important: The review could be Friday afternoon.,,,,medium,MSG_0493
+TASK_number202,task,Quick update: Please call Maya when you are free.,,,Maya,low,MSG_0495
+TASK_number203,task,Please note: Don't forget to upload the assignment; deadline is 2026-09-08.,2026-09-08,,,low,MSG_0498
+MEETING_number204,meeting,"Hi, Remember that i prefer morning meetings.",,,,low,MSG_0500
+MEETING_number205,meeting,Important: Remember that i prefer morning meetings.,,,,medium,MSG_0501
+MEETING_number206,meeting,"Hi, Let us meet sometime next week.",,,,low,MSG_0502
+TASK_number207,task,Can you help? Don't forget to call the service centre; deadline is 2026-09-10.,2026-09-10,,,low,MSG_0503
+TASK_number208,task,For today: Could you send it soon?,,,,medium,MSG_0505
+MEETING_number209,meeting,"FYI: Please join the study-group session on 2026-09-18, 13:00 at Conference Room",2026-09-18,13:00 ,,low,MSG_0508
+MEETING_number210,meeting,I might prefer evening meetings now.,,,,low,MSG_0510
+TASK_number211,task,For today: Reminder: doctor appointment happens on 2026-09-11 at 10:00 in the ca,2026-09-11,10:00 ,,low,MSG_0511
+TASK_number212,task,Please note: Can you send the revised presentation before 2026-09-05?,2026-09-05,,,low,MSG_0512
+TASK_number213,task,Can you help? Prepare the demo video is due on 2026-09-03.,2026-09-03,,,low,MSG_0513
+EVENT_number214,event,Are you available for the college seminar at 12:00 on 2026-09-05? Location: the ,2026-09-05,12:00 ,,low,MSG_0519
+MEETING_number215,meeting,"Please note: Just so you know, i prefer morning meetings.",,,,low,MSG_0522
+TASK_number216,task,"Just checking—If possible, review the file before the meeting.",,,,low,MSG_0524
+MEETING_number217,meeting,Just checking—Let us meet sometime next week.,,,,low,MSG_0526
+MEETING_number218,meeting,Can you help? Please confirm the interview slot by 2026-09-10.,2026-09-10,,,low,MSG_0527
+TASK_number219,task,For today: Please submit the weekly report by 2026-09-08.,2026-09-08,,,low,MSG_0530
+TASK_number220,task,One more thing: Send the expense receipt is due on 2026-09-10.,2026-09-10,,,low,MSG_0531
+TASK_number221,task,One more thing: I will send the login details separately.,,,,low,MSG_0533
+TASK_number222,task,Just checking—Don't forget to pay the electricity bill; deadline is 2026-09-03.,2026-09-03,,,low,MSG_0536
+TASK_number223,task,"Hi, I need you to review the model results by 2026-09-04.",2026-09-04,,,low,MSG_0537
+MEETING_number224,meeting,"Just checking—Just so you know, i prefer morning meetings.",,,,low,MSG_0544
+TASK_number225,task,"Hi, Complete the onboarding form is due on 2026-09-03.",2026-09-03,,,low,MSG_0546
+TASK_number226,task,"Hi, Please submit the weekly report by 2026-09-10.",2026-09-10,,,low,MSG_0547
+MEETING_number227,meeting,"Just checking—Please join the study-group session on 2026-09-08, 15:00 at Confer",2026-09-08,15:00 ,,low,MSG_0549
+TASK_number228,task,Just checking—Complete the onboarding form is due on 2026-09-05.,2026-09-05,,,low,MSG_0551
+TASK_number229,task,Please submit the weekly report by 2026-09-02.,2026-09-02,,,low,MSG_0552
+TASK_number230,task,FYI: Don't forget to upload the assignment; deadline is 2026-09-02.,2026-09-02,,,low,MSG_0554
+TASK_number231,task,"Hi, Share the meeting notes is due on 2026-09-08.",2026-09-08,,,low,MSG_0556
+MEETING_number232,meeting,"Hi, Please confirm the interview slot by 2026-09-02.",2026-09-02,,,low,MSG_0557
+TASK_number233,task,"Please note: If possible, review the file before the meeting.",,,,low,MSG_0559
+TASK_number234,task,"Hi, Prepare the demo video is due on 2026-09-04.",2026-09-04,,,low,MSG_0561
+EVENT_number235,event,FYI: The event registration desk opens at 9 AM.,,,,low,MSG_0562
+TASK_number236,task,Are you available for the design review at 9:00 on 2026-09-10? Location: the tra,2026-09-10,9:00 ,,low,MSG_0565
+TASK_number237,task,Just checking—Share the meeting notes is due on 2026-09-10.,2026-09-10,,,low,MSG_0566
+TASK_number238,task,FYI: Can you review the privacy checklist before 2026-09-05?,2026-09-05,,,low,MSG_0569
+TASK_number239,task,"Hi, I will send the login details separately.",,,,low,MSG_0570
+TASK_number240,task,Quick update: Can you finish the test cases before 2026-09-03?,2026-09-03,,,low,MSG_0574
+TASK_number241,task,Please note: Please complete the Python exercise by 2026-09-10.,2026-09-10,,,low,MSG_0577
+TASK_number242,task,One more thing: Can you review the privacy checklist before 2026-09-09?,2026-09-09,,,low,MSG_0578
+MEETING_number243,meeting,Just checking—Are you available for the technical interview at 9:00 on 2026-09-1,2026-09-10,9:00 ,,low,MSG_0579
+TASK_number244,task,"Important: If possible, review the file before the meeting.",,,,medium,MSG_0580
+TASK_number245,task,Complete the onboarding form is due on 2026-09-04.,2026-09-04,,,low,MSG_0585
+MEETING_number246,meeting,"Hi, The client discussion is scheduled for 2026-09-07 at 10:00 in Zoom.",2026-09-07,10:00 ,,low,MSG_0588
+TASK_number247,task,One more thing: Reminder: doctor appointment happens on 2026-09-21 at 12:00 in t,2026-09-21,12:00 ,,low,MSG_0592
+EVENT_number248,event,Can you help? Are you available for the college seminar at 12:00 on 2026-09-05? ,2026-09-05,12:00 ,,low,MSG_0600
+TASK_number249,task,Please note: Reminder: doctor appointment happens on 2026-09-21 at 12:00 in the ,2026-09-21,12:00 ,,low,MSG_0601
+TASK_number250,task,For today: Can you finish the test cases before 2026-09-05?,2026-09-05,,,low,MSG_0602
+TASK_number251,task,Just checking—Don't forget to email the signed document; deadline is 2026-09-08.,2026-09-08,,,low,MSG_0605
+EVENT_number252,event,FYI: The webinar recording is now available.,,,,low,MSG_0609
+TASK_number253,task,Don't forget to pay the electricity bill; deadline is 2026-09-02.,2026-09-02,,,low,MSG_0614
+TASK_number254,task,FYI: Are you available for the design review at 10:00 on 2026-09-15? Location: t,2026-09-15,10:00 ,,low,MSG_0616
+MEETING_number255,meeting,Just checking—Please confirm the interview slot by 2026-09-04.,2026-09-04,,,low,MSG_0617
+TASK_number256,task,Please note: Can you finish the test cases before 2026-09-10?,2026-09-10,,,low,MSG_0618
+TASK_number257,task,For today: Don't forget to pay the electricity bill; deadline is 2026-09-08.,2026-09-08,,,low,MSG_0620
+TASK_number258,task,Can you help? Can you review the privacy checklist before 2026-09-07?,2026-09-07,,,low,MSG_0621
+MEETING_number259,meeting,"Can you help? Please join the study-group session on 2026-09-13, 12:00 at Google",2026-09-13,12:00 ,,low,MSG_0623
+TASK_number260,task,Please note: Complete the onboarding form is due on 2026-09-06.,2026-09-06,,,low,MSG_0624
+MEETING_number261,meeting,"Can you help? Please join the AI workshop on 2026-09-08, 15:00 at Conference Roo",2026-09-08,15:00 ,,low,MSG_0628
+MEETING_number262,meeting,Can you help? I might prefer evening meetings now.,,,,low,MSG_0629
+MEETING_number263,meeting,Can you help? Are you available for the technical interview at 14:00 on 2026-09-,2026-09-15,14:00 ,,low,MSG_0630
+TASK_number264,task,One more thing: Don't forget to upload the assignment; deadline is 2026-09-06.,2026-09-06,,,low,MSG_0633
+TASK_number265,task,Important: Please call Maya when you are free.,,,Maya,medium,MSG_0634
+TASK_number266,task,"Hi, The review could be Friday afternoon.",,,,low,MSG_0635
+TASK_number267,task,Reminder: doctor appointment happens on 2026-09-06 at 13:00 in the city clinic.,2026-09-06,13:00 ,,low,MSG_0637
+TASK_number268,task,Can you help? Please submit the weekly report by 2026-09-09.,2026-09-09,,,low,MSG_0639
+TASK_number269,task,Can you help? Don't forget to upload the assignment; deadline is 2026-09-04.,2026-09-04,,,low,MSG_0640
+TASK_number270,task,Can you help? Reminder: sprint planning happens on 2026-09-16 at 15:00 in the ci,2026-09-16,15:00 ,,low,MSG_0643
+TASK_number271,task,Quick update: Reminder: sprint planning happens on 2026-09-06 at 13:00 in the ci,2026-09-06,13:00 ,,low,MSG_0645
+TASK_number272,task,One more thing: Share the meeting notes is due on 2026-09-09.,2026-09-09,,,low,MSG_0652
+TASK_number273,task,"Hi, Can you review the privacy checklist before 2026-09-08?",2026-09-08,,,low,MSG_0653
+TASK_number274,task,Important: Could you send it soon?,,,,medium,MSG_0654
+MEETING_number275,meeting,"Please join the internship orientation on 2026-09-03, 10:00 at Google Meet.",2026-09-03,10:00 ,,low,MSG_0660
+TASK_number276,task,One more thing: Can you send the revised presentation before 2026-09-03?,2026-09-03,,,low,MSG_0662
+TASK_number277,task,One more thing: Reminder: sprint planning happens on 2026-09-11 at 14:00 in the ,2026-09-11,14:00 ,,low,MSG_0664
+TASK_number278,task,Important: Don't forget to pay the electricity bill; deadline is 2026-09-05.,2026-09-05,,,medium,MSG_0667
+TASK_number279,task,For today: Reminder: sprint planning happens on 2026-09-21 at 12:00 in the cafet,2026-09-21,12:00 ,,low,MSG_0668
+EVENT_number280,event,Quick update: The webinar recording is now available.,,,,low,MSG_0669
+TASK_number281,task,Quick update: Don't forget to upload the assignment; deadline is 2026-09-10.,2026-09-10,,,low,MSG_0670
+TASK_number282,task,Just checking—Reminder: doctor appointment happens on 2026-09-21 at 16:00 in the,2026-09-21,16:00 ,,low,MSG_0673
+TASK_number283,task,Quick update: The project review is scheduled for 2026-09-12 at 15:00 in Meeting,2026-09-12,15:00 ,,low,MSG_0674
+EVENT_number284,event,For today: The webinar recording is now available.,,,,low,MSG_0675
+MEETING_number285,meeting,"For today: Please join the internship orientation on 2026-09-08, 15:00 at Confer",2026-09-08,15:00 ,,low,MSG_0683
+MEETING_number286,meeting,For today: I might prefer evening meetings now.,,,,low,MSG_0685
+TASK_number287,task,Don't forget to upload the assignment; deadline is 2026-09-06.,2026-09-06,,,low,MSG_0688
+TASK_number288,task,For today: Prepare the demo video is due on 2026-09-02.,2026-09-02,,,low,MSG_0690
+TASK_number289,task,Important: I will send the login details separately.,,,,medium,MSG_0692
+TASK_number290,task,"Hi, The project review is scheduled for 2026-09-02 at 13:00 in Meeting Room A.",2026-09-02,13:00 ,,low,MSG_0693
+TASK_number291,task,Important: Please complete the Python exercise by 2026-09-02.,2026-09-02,,,medium,MSG_0694
+MEETING_number292,meeting,"Quick update: Please join the study-group session on 2026-09-03, 10:00 at Google",2026-09-03,10:00 ,,low,MSG_0706
+MEETING_number293,meeting,Important: The product demo is scheduled for 2026-09-02 at 13:00 in Meeting Room,2026-09-02,13:00 ,,medium,MSG_0707
+TASK_number294,task,Can you help? Reminder: doctor appointment happens on 2026-09-06 at 13:00 in the,2026-09-06,13:00 ,,low,MSG_0711
+MEETING_number295,meeting,Quick update: I might prefer evening meetings now.,,,,low,MSG_0713
+TASK_number296,task,Can you help? Share the meeting notes is due on 2026-09-07.,2026-09-07,,,low,MSG_0716
+TASK_number297,task,FYI: Please call Maya when you are free.,,,Maya,low,MSG_0717
+TASK_number298,task,Just checking—Reminder: mentor catch-up happens on 2026-09-06 at 13:00 in the ci,2026-09-06,13:00 ,,low,MSG_0719
+TASK_number299,task,Share the meeting notes is due on 2026-09-09.,2026-09-09,,,low,MSG_0720
+TASK_number300,task,Just checking—Send the expense receipt is due on 2026-09-02.,2026-09-02,,,low,MSG_0722
+TASK_number301,task,For today: Can you send the revised presentation before 2026-09-09?,2026-09-09,,,low,MSG_0725
+TASK_number302,task,Just checking—Please submit the weekly report by 2026-09-03.,2026-09-03,,,low,MSG_0730
+TASK_number303,task,Just checking—I will send the login details separately.,,,,low,MSG_0738
+TASK_number304,task,One more thing: Don't forget to pay the electricity bill; deadline is 2026-09-02,2026-09-02,,,low,MSG_0743
+MEETING_number305,meeting,"Just checking—Please join the AI workshop on 2026-09-03, 10:00 at Google Meet.",2026-09-03,10:00 ,,low,MSG_0745
+MEETING_number306,meeting,"Quick update: Please join the AI workshop on 2026-09-18, 13:00 at Conference Roo",2026-09-18,13:00 ,,low,MSG_0747
+TASK_number307,task,Please note: Don't forget to pay the electricity bill; deadline is 2026-09-04.,2026-09-04,,,low,MSG_0754
+TASK_number308,task,"Hi, Don't forget to call the service centre; deadline is 2026-09-02.",2026-09-02,,,low,MSG_0757
+MEETING_number309,meeting,The product demo is scheduled for 2026-09-12 at 11:00 in Meeting Room A.,2026-09-12,11:00 ,,low,MSG_0759
+TASK_number310,task,"Hi, Don't forget to upload the assignment; deadline is 2026-09-05.",2026-09-05,,,low,MSG_0761
+MEETING_number311,meeting,Please note: Let us meet sometime next week.,,,,low,MSG_0770
+TASK_number312,task,I will send the login details separately.,,,,low,MSG_0771
+MEETING_number313,meeting,Important: I might prefer evening meetings now.,,,,medium,MSG_0773
+TASK_number314,task,Just checking—Could you send it soon?,,,,medium,MSG_0775
+TASK_number315,task,FYI: Send the expense receipt is due on 2026-09-06.,2026-09-06,,,low,MSG_0776
+TASK_number316,task,Can you help? Can you send the revised presentation before 2026-09-10?,2026-09-10,,,low,MSG_0780
+TASK_number317,task,Quick update: I need you to review the model results by 2026-09-09.,2026-09-09,,,low,MSG_0783
+TASK_number318,task,Important: Share the meeting notes is due on 2026-09-03.,2026-09-03,,,medium,MSG_0787
+MEETING_number319,meeting,Quick update: The client discussion is scheduled for 2026-09-17 at 12:00 in Zoom,2026-09-17,12:00 ,,low,MSG_0788
+TASK_number320,task,The project review is scheduled for 2026-09-02 at 9:00 in Meeting Room A.,2026-09-02,9:00 ,,low,MSG_0792
+MEETING_number321,meeting,"Please note: Please join the study-group session on 2026-09-08, 11:00 at Confere",2026-09-08,11:00 ,,low,MSG_0793
+TASK_number322,task,For today: Share the meeting notes is due on 2026-09-06.,2026-09-06,,,low,MSG_0795
+EVENT_number323,event,One more thing: Are you available for the college seminar at 11:00 on 2026-09-20,2026-09-20,11:00 ,,low,MSG_0798
+TASK_number324,task,Quick update: Don't forget to email the signed document; deadline is 2026-09-02.,2026-09-02,,,low,MSG_0799
+TASK_number325,task,Just checking—Are you available for the design review at 12:00 on 2026-09-05? Lo,2026-09-05,12:00 ,,low,MSG_0800
+MEETING_number326,meeting,For today: Let us meet sometime next week.,,,,low,MSG_0801
+TASK_number327,task,FYI: Don't forget to pay the electricity bill; deadline is 2026-09-07.,2026-09-07,,,low,MSG_0809
+TASK_number328,task,"Hi, Are you available for the design review at 13:00 on 2026-09-10? Location: th",2026-09-10,13:00 ,,low,MSG_0810
+TASK_number329,task,Just checking—Please call Maya when you are free.,,,Maya,low,MSG_0811
+TASK_number330,task,For today: Please complete the Python exercise by 2026-09-05.,2026-09-05,,,low,MSG_0814
+TASK_number331,task,Important: Send the expense receipt is due on 2026-09-04.,2026-09-04,,,medium,MSG_0815
+TASK_number332,task,"Quick update: If possible, review the file before the meeting.",,,,low,MSG_0816
+TASK_number333,task,Please note: Share the meeting notes is due on 2026-09-02.,2026-09-02,,,low,MSG_0819
+TASK_number334,task,FYI: Please submit the weekly report by 2026-09-07.,2026-09-07,,,low,MSG_0824
+TASK_number335,task,Can you finish the test cases before 2026-09-08?,2026-09-08,,,low,MSG_0826
+TASK_number336,task,For today: Please call Maya when you are free.,,,Maya,low,MSG_0827
+TASK_number337,task,Important: Don't forget to email the signed document; deadline is 2026-09-10.,2026-09-10,,,medium,MSG_0829
+MEETING_number338,meeting,For today: Are you available for the technical interview at 11:00 on 2026-09-20?,2026-09-20,11:00 ,,low,MSG_0831
+MEETING_number339,meeting,Are you available for the technical interview at 14:00 on 2026-09-15? Location: ,2026-09-15,14:00 ,,low,MSG_0837
+TASK_number340,task,The review could be Friday afternoon.,,,,low,MSG_0840
+MEETING_number341,meeting,"Quick update: Please join the internship orientation on 2026-09-13, 16:00 at Goo",2026-09-13,16:00 ,,low,MSG_0841
+EVENT_number342,event,The webinar recording is now available.,,,,low,MSG_0843
+MEETING_number343,meeting,"Can you help? Please join the internship orientation on 2026-09-03, 10:00 at Goo",2026-09-03,10:00 ,,low,MSG_0847
+TASK_number344,task,Please note: Are you available for the design review at 16:00 on 2026-09-05? Loc,2026-09-05,16:00 ,,low,MSG_0849
+TASK_number345,task,Just checking—Prepare the demo video is due on 2026-09-06.,2026-09-06,,,low,MSG_0850
+TASK_number346,task,Please note: Prepare the demo video is due on 2026-09-07.,2026-09-07,,,low,MSG_0851
+TASK_number347,task,"Hi, Could you send it soon?",,,,medium,MSG_0859
+EVENT_number348,event,Please note: Are you available for the college seminar at 11:00 on 2026-09-20? L,2026-09-20,11:00 ,,low,MSG_0860
+TASK_number349,task,Can you help? Reminder: mentor catch-up happens on 2026-09-11 at 10:00 in the ca,2026-09-11,10:00 ,,low,MSG_0861
+TASK_number350,task,"Hi, Don't forget to email the signed document; deadline is 2026-09-06.",2026-09-06,,,low,MSG_0862
+TASK_number351,task,One more thing: Reminder: mentor catch-up happens on 2026-09-06 at 9:00 in the c,2026-09-06,9:00 ,,low,MSG_0866
+MEETING_number352,meeting,Can you help? The client discussion is scheduled for 2026-09-07 at 14:00 in Zoom,2026-09-07,14:00 ,,low,MSG_0868
+TASK_number353,task,For today: Send the expense receipt is due on 2026-09-07.,2026-09-07,,,low,MSG_0870
+MEETING_number354,meeting,"One more thing: Please join the study-group session on 2026-09-08, 11:00 at Conf",2026-09-08,11:00 ,,low,MSG_0873
+EVENT_number355,event,Just checking—Are you available for the college seminar at 15:00 on 2026-09-20? ,2026-09-20,15:00 ,,low,MSG_0877
+MEETING_number356,meeting,Please note: The client discussion is scheduled for 2026-09-02 at 13:00 in Meeti,2026-09-02,13:00 ,,low,MSG_0878
+TASK_number357,task,For today: I will send the login details separately.,,,,low,MSG_0879
+EVENT_number358,event,FYI: Are you available for the college seminar at 13:00 on 2026-09-10? Location:,2026-09-10,13:00 ,,low,MSG_0882
+TASK_number359,task,For today: I need you to review the model results by 2026-09-02.,2026-09-02,,,low,MSG_0883
+TASK_number360,task,For today: The review could be Friday afternoon.,,,,low,MSG_0886
+TASK_number361,task,Important: Can you review the privacy checklist before 2026-09-03?,2026-09-03,,,medium,MSG_0893
+TASK_number362,task,Important: Are you available for the design review at 11:00 on 2026-09-20? Locat,2026-09-20,11:00 ,,medium,MSG_0894
+MEETING_number363,meeting,"For today: Please join the AI workshop on 2026-09-13, 12:00 at Google Meet.",2026-09-13,12:00 ,,low,MSG_0895
+TASK_number364,task,Can you help? Please complete the Python exercise by 2026-09-06.,2026-09-06,,,low,MSG_0898
+EVENT_number365,event,Quick update: Are you available for the college seminar at 10:00 on 2026-09-15? ,2026-09-15,10:00 ,,low,MSG_0900

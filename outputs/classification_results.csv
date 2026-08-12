@@ -1,0 +1,901 @@
+message_id,category,confidence,reason
+MSG_0001,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0002,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0003,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-16 at"
+MSG_0004,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0005,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0006,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0007,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , Please reply"
+MSG_0008,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0009,Personal Information,0.87,The message containes personal or profile related information
+MSG_0010,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0011,Promotional,0.8,Promotional Language Detected Please join
+MSG_0012,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0013,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0014,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0015,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0016,Personal Information,0.77,The message containes personal or profile related information
+MSG_0017,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , need you to"
+MSG_0018,Personal Information,0.77,The message containes personal or profile related information
+MSG_0019,Promotional,0.85,"Promotional Language Detected by 2026-09-03 , need you to"
+MSG_0020,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0021,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0022,Personal Information,0.77,The message containes personal or profile related information
+MSG_0023,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0024,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0025,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0026,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0027,Promotional,0.8,Promotional Language Detected by 2026-09-05
+MSG_0028,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0029,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0030,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0031,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0032,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0033,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0034,Promotional,0.8,Promotional Language Detected Please note: Please join
+MSG_0035,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0036,Promotional,0.8,Promotional Language Detected Please join
+MSG_0037,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0038,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0039,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0040,Personal Information,0.77,The message containes personal or profile related information
+MSG_0041,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0042,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0043,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0044,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , Please complete"
+MSG_0045,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0046,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0047,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0048,Personal Information,0.77,The message containes personal or profile related information
+MSG_0049,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0050,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0051,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-16 at"
+MSG_0052,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0053,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0054,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0055,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0056,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0057,Promotional,0.8,Promotional Language Detected Please note: I will send
+MSG_0058,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0059,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0060,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0061,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0062,Promotional,0.8,Promotional Language Detected Please join
+MSG_0063,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , need you to"
+MSG_0064,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0065,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0066,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0067,Promotional,0.8,Promotional Language Detected Please join
+MSG_0068,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0069,Personal Information,0.77,The message containes personal or profile related information
+MSG_0070,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0071,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0072,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , need you to"
+MSG_0073,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0074,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0075,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0076,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0077,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0078,Personal Information,0.77,The message containes personal or profile related information
+MSG_0079,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0080,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0081,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0082,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0083,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , need you to"
+MSG_0084,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0085,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0086,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0087,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0088,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0089,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0090,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0091,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0092,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0093,Personal Information,0.87,The message containes personal or profile related information
+MSG_0094,Personal Information,0.77,The message containes personal or profile related information
+MSG_0095,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0096,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0097,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0098,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0099,Personal Information,0.77,The message containes personal or profile related information
+MSG_0100,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-16 at
+MSG_0101,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0102,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0103,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0104,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0105,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0106,Personal Information,0.77,The message containes personal or profile related information
+MSG_0107,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0108,Personal Information,0.77,The message containes personal or profile related information
+MSG_0109,Personal Information,0.87,The message containes personal or profile related information
+MSG_0110,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0111,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , need you to"
+MSG_0112,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0113,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0114,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , Please complete"
+MSG_0115,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0116,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0117,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0118,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0119,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0120,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0121,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0122,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-11 at"
+MSG_0123,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0124,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-06 at"
+MSG_0125,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0126,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0127,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-11 at"
+MSG_0128,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0129,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0130,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0131,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0132,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0133,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0134,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0135,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-21 at"
+MSG_0136,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0137,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0138,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0139,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0140,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0141,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0142,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0143,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0144,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0145,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , Please complete"
+MSG_0146,Personal Information,0.77,The message containes personal or profile related information
+MSG_0147,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0148,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0149,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0150,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0151,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0152,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0153,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0154,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0155,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0156,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0157,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , need you to"
+MSG_0158,Personal Information,0.77,The message containes personal or profile related information
+MSG_0159,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0160,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , Please submit"
+MSG_0161,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0162,Promotional,0.8,Promotional Language Detected Please join
+MSG_0163,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0164,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0165,Personal Information,0.77,The message containes personal or profile related information
+MSG_0166,Personal Information,0.77,The message containes personal or profile related information
+MSG_0167,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0168,Promotional,0.8,Promotional Language Detected Please join
+MSG_0169,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-06 at
+MSG_0170,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0171,Promotional,0.8,Promotional Language Detected by 2026-09-09
+MSG_0172,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0173,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , need you to"
+MSG_0174,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0175,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , need you to"
+MSG_0176,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0177,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-21 at
+MSG_0178,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , need you to"
+MSG_0179,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0180,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0181,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0182,Personal Information,0.77,The message containes personal or profile related information
+MSG_0183,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0184,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0185,Personal Information,0.77,The message containes personal or profile related information
+MSG_0186,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0187,Personal Information,0.77,The message containes personal or profile related information
+MSG_0188,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0189,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0190,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0191,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0192,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0193,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0194,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0195,Promotional,0.8,Promotional Language Detected by 2026-09-03
+MSG_0196,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0197,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0198,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0199,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0200,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0201,Promotional,0.8,Promotional Language Detected Please note: Calendar update
+MSG_0202,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0203,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0204,Personal Information,0.77,The message containes personal or profile related information
+MSG_0205,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0206,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0207,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0208,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , Please submit"
+MSG_0209,Promotional,0.8,Promotional Language Detected Please note: Calendar update
+MSG_0210,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0211,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0212,Personal Information,0.77,The message containes personal or profile related information
+MSG_0213,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0214,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0215,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0216,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0217,Promotional,0.8,Promotional Language Detected Please note: The review
+MSG_0218,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-16 at
+MSG_0219,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0220,Promotional,0.8,Promotional Language Detected by 2026-09-06
+MSG_0221,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0222,Promotional,0.8,Promotional Language Detected Please join
+MSG_0223,Promotional,0.8,Promotional Language Detected Please join
+MSG_0224,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0225,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0226,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , need you to"
+MSG_0227,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0228,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0229,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0230,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0231,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0232,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , need you to"
+MSG_0233,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0234,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0235,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0236,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0237,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0238,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0239,Personal Information,0.77,The message containes personal or profile related information
+MSG_0240,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0241,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0242,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0243,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0244,Promotional,0.8,Promotional Language Detected Please join
+MSG_0245,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , Please complete"
+MSG_0246,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0247,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0248,Personal Information,0.87,The message containes personal or profile related information
+MSG_0249,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-21 at"
+MSG_0250,Personal Information,0.77,The message containes personal or profile related information
+MSG_0251,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0252,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , need you to"
+MSG_0253,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0254,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0255,Promotional,0.8,Promotional Language Detected Please join
+MSG_0256,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0257,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0258,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0259,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0260,Personal Information,0.77,The message containes personal or profile related information
+MSG_0261,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0262,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0263,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0264,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0265,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0266,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0267,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0268,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-11 at
+MSG_0269,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0270,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0271,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0272,Personal Information,0.77,The message containes personal or profile related information
+MSG_0273,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0274,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0275,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0276,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0277,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0278,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0279,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0280,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0281,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0282,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0283,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0284,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0285,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0286,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0287,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , Please reply"
+MSG_0288,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0289,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0290,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0291,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0292,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0293,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0294,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-11 at"
+MSG_0295,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0296,Personal Information,0.87,The message containes personal or profile related information
+MSG_0297,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0298,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0299,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0300,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0301,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , Please reply"
+MSG_0302,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0303,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0304,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0305,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0306,Promotional,0.9,"Promotional Language Detected by 2026-09-07 , need you to , Please note: I need you to review"
+MSG_0307,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0308,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0309,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0310,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0311,Promotional,0.8,Promotional Language Detected Please join
+MSG_0312,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , need you to"
+MSG_0313,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0314,Promotional,0.8,Promotional Language Detected by 2026-09-03
+MSG_0315,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0316,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0317,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0318,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0319,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0320,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0321,Personal Information,0.77,The message containes personal or profile related information
+MSG_0322,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0323,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0324,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0325,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0326,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0327,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0328,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0329,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0330,Promotional,0.8,Promotional Language Detected Please note: Please join
+MSG_0331,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0332,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0333,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0334,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , need you to"
+MSG_0335,Promotional,0.8,Promotional Language Detected by 2026-09-07
+MSG_0336,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0337,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0338,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0339,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0340,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , need you to"
+MSG_0341,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0342,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0343,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0344,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0345,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0346,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0347,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0348,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0349,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0350,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0351,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0352,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0353,Personal Information,0.77,The message containes personal or profile related information
+MSG_0354,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0355,Personal Information,0.77,The message containes personal or profile related information
+MSG_0356,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0357,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0358,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0359,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0360,Promotional,0.85,"Promotional Language Detected by 2026-09-03 , need you to"
+MSG_0361,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0362,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0363,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0364,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0365,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , Please reply"
+MSG_0366,Promotional,0.85,"Promotional Language Detected by 2026-09-03 , Please reply"
+MSG_0367,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0368,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0369,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , Please note: Please submit"
+MSG_0370,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0371,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0372,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0373,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0374,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0375,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0376,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0377,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0378,Promotional,0.8,Promotional Language Detected Please join
+MSG_0379,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , Please submit"
+MSG_0380,Personal Information,0.77,The message containes personal or profile related information
+MSG_0381,Personal Information,0.77,The message containes personal or profile related information
+MSG_0382,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0383,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0384,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0385,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0386,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0387,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0388,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0389,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0390,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0391,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0392,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0393,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0394,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0395,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0396,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , Please complete"
+MSG_0397,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0398,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0399,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0400,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0401,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , need you to"
+MSG_0402,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0403,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0404,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0405,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-16 at"
+MSG_0406,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0407,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0408,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0409,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0410,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0411,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0412,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0413,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0414,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0415,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0416,Personal Information,0.77,The message containes personal or profile related information
+MSG_0417,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , need you to"
+MSG_0418,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , Please note: Please reply"
+MSG_0419,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0420,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0421,Personal Information,0.77,The message containes personal or profile related information
+MSG_0422,Promotional,0.85,"Promotional Language Detected by 2026-09-03 , Please complete"
+MSG_0423,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0424,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-11 at
+MSG_0425,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , need you to"
+MSG_0426,Personal Information,0.77,The message containes personal or profile related information
+MSG_0427,Promotional,0.8,Promotional Language Detected Please note: The project review
+MSG_0428,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0429,Personal Information,0.77,The message containes personal or profile related information
+MSG_0430,Promotional,0.8,Promotional Language Detected Please join
+MSG_0431,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0432,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0433,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0434,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0435,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0436,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0437,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0438,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0439,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0440,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0441,Personal Information,0.77,The message containes personal or profile related information
+MSG_0442,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0443,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0444,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0445,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0446,Personal Information,0.77,The message containes personal or profile related information
+MSG_0447,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0448,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0449,Promotional,0.8,Promotional Language Detected Please join
+MSG_0450,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0451,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , Please reply"
+MSG_0452,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0453,Personal Information,0.77,The message containes personal or profile related information
+MSG_0454,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0455,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , need you to"
+MSG_0456,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0457,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0458,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0459,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0460,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0461,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0462,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0463,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0464,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0465,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-06 at"
+MSG_0466,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0467,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , need you to"
+MSG_0468,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0469,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0470,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0471,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0472,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0473,Promotional,0.8,Promotional Language Detected Please note: Send
+MSG_0474,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0475,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0476,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0477,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0478,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0479,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0480,Promotional,0.8,Promotional Language Detected by 2026-09-08
+MSG_0481,Promotional,0.8,Promotional Language Detected Please note: Can you review
+MSG_0482,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0483,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , need you to"
+MSG_0484,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0485,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0486,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0487,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0488,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-16 at"
+MSG_0489,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0490,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0491,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0492,Promotional,0.8,Promotional Language Detected Please note: Could you send
+MSG_0493,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0494,Personal Information,0.77,The message containes personal or profile related information
+MSG_0495,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0496,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0497,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0498,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0499,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0500,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0501,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0502,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0503,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0504,Personal Information,0.77,The message containes personal or profile related information
+MSG_0505,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0506,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0507,Personal Information,0.77,The message containes personal or profile related information
+MSG_0508,Promotional,0.8,Promotional Language Detected Please join
+MSG_0509,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0510,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0511,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-11 at"
+MSG_0512,Promotional,0.8,Promotional Language Detected Please note: Can you send
+MSG_0513,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0514,Personal Information,0.87,The message containes personal or profile related information
+MSG_0515,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , need you to"
+MSG_0516,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0517,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , need you to"
+MSG_0518,Personal Information,0.77,The message containes personal or profile related information
+MSG_0519,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0520,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0521,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0522,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0523,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0524,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0525,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0526,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0527,Promotional,0.8,Promotional Language Detected by 2026-09-10
+MSG_0528,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0529,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0530,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , Please submit"
+MSG_0531,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0532,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0533,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0534,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0535,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0536,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0537,Promotional,0.85,"Promotional Language Detected by 2026-09-04 , need you to"
+MSG_0538,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0539,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0540,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0541,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0542,Personal Information,0.77,The message containes personal or profile related information
+MSG_0543,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0544,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0545,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0546,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0547,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , Please submit"
+MSG_0548,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0549,Promotional,0.8,Promotional Language Detected Please join
+MSG_0550,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0551,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0552,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , Please submit"
+MSG_0553,Promotional,0.9,"Promotional Language Detected by 2026-09-03 , need you to , Please note: I need you to renew"
+MSG_0554,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0555,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0556,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0557,Promotional,0.8,Promotional Language Detected by 2026-09-02
+MSG_0558,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0559,Promotional,0.8,"Promotional Language Detected Please note: If possible, review"
+MSG_0560,Personal Information,0.77,The message containes personal or profile related information
+MSG_0561,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0562,Meeting or Event,0.8,Meeting or Event Detected event
+MSG_0563,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0564,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0565,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0566,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0567,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0568,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0569,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0570,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0571,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0572,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0573,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0574,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0575,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0576,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0577,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , Please note: Please complete"
+MSG_0578,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0579,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0580,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0581,Personal Information,0.77,The message containes personal or profile related information
+MSG_0582,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0583,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0584,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0585,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0586,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0587,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0588,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0589,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0590,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0591,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0592,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-21 at"
+MSG_0593,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0594,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0595,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0596,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0597,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0598,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0599,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0600,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0601,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-21 at"
+MSG_0602,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0603,Promotional,0.8,Promotional Language Detected Please note: Calendar update
+MSG_0604,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0605,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0606,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0607,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , need you to"
+MSG_0608,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0609,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0610,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0611,Personal Information,0.77,The message containes personal or profile related information
+MSG_0612,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , need you to"
+MSG_0613,Personal Information,0.87,The message containes personal or profile related information
+MSG_0614,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0615,Promotional,0.85,"Promotional Language Detected by 2026-09-03 , need you to"
+MSG_0616,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0617,Promotional,0.8,Promotional Language Detected by 2026-09-04
+MSG_0618,Promotional,0.8,Promotional Language Detected Please note: Can you finish
+MSG_0619,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0620,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0621,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0622,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0623,Promotional,0.8,Promotional Language Detected Please join
+MSG_0624,Promotional,0.8,Promotional Language Detected Please note: Complete
+MSG_0625,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0626,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0627,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0628,Promotional,0.8,Promotional Language Detected Please join
+MSG_0629,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0630,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0631,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0632,Personal Information,0.77,The message containes personal or profile related information
+MSG_0633,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0634,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0635,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0636,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0637,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-06 at"
+MSG_0638,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , need you to"
+MSG_0639,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , Please submit"
+MSG_0640,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0641,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0642,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0643,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-16 at
+MSG_0644,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0645,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-06 at
+MSG_0646,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0647,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0648,Personal Information,0.77,The message containes personal or profile related information
+MSG_0649,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0650,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0651,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0652,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0653,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0654,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0655,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0656,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0657,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , need you to"
+MSG_0658,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , need you to"
+MSG_0659,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , need you to"
+MSG_0660,Promotional,0.8,Promotional Language Detected Please join
+MSG_0661,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0662,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0663,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0664,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-11 at
+MSG_0665,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0666,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0667,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0668,Meeting or Event,0.8,Meeting or Event Detected Reminder: sprint planning happens on 2026-09-21 at
+MSG_0669,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0670,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0671,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0672,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0673,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-21 at"
+MSG_0674,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0675,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0676,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0677,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0678,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0679,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0680,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0681,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0682,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0683,Promotional,0.8,Promotional Language Detected Please join
+MSG_0684,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0685,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0686,Personal Information,0.87,The message containes personal or profile related information
+MSG_0687,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0688,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0689,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0690,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0691,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0692,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0693,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0694,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , Please complete"
+MSG_0695,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0696,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0697,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0698,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0699,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0700,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0701,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0702,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0703,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0704,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0705,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0706,Promotional,0.8,Promotional Language Detected Please join
+MSG_0707,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0708,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0709,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0710,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0711,Meeting or Event,0.85,"Meeting or Event Detected appointment , Reminder: doctor appointment happens on 2026-09-06 at"
+MSG_0712,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0713,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0714,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0715,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0716,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0717,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0718,Personal Information,0.77,The message containes personal or profile related information
+MSG_0719,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-06 at"
+MSG_0720,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0721,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0722,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0723,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0724,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0725,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0726,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0727,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0728,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0729,Personal Information,0.77,The message containes personal or profile related information
+MSG_0730,Promotional,0.85,"Promotional Language Detected by 2026-09-03 , Please submit"
+MSG_0731,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0732,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0733,Personal Information,0.77,The message containes personal or profile related information
+MSG_0734,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0735,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0736,Promotional,0.8,Promotional Language Detected Please note: Can you update
+MSG_0737,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0738,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0739,Personal Information,0.77,The message containes personal or profile related information
+MSG_0740,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , need you to"
+MSG_0741,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0742,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0743,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0744,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0745,Promotional,0.8,Promotional Language Detected Please join
+MSG_0746,Personal Information,0.77,The message containes personal or profile related information
+MSG_0747,Promotional,0.8,Promotional Language Detected Please join
+MSG_0748,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0749,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0750,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0751,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0752,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0753,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0754,Promotional,0.9,"Promotional Language Detected Don't forget , deadline , Please note: Don't forget to pay"
+MSG_0755,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0756,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0757,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0758,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0759,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0760,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0761,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0762,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0763,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0764,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0765,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0766,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0767,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0768,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0769,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0770,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0771,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0772,Personal Information,0.77,The message containes personal or profile related information
+MSG_0773,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0774,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0775,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0776,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0777,Sensitive Information,0.99,Sensitive Information Detected : password
+MSG_0778,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0779,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , Please reply"
+MSG_0780,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0781,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0782,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0783,Promotional,0.85,"Promotional Language Detected by 2026-09-09 , need you to"
+MSG_0784,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , Please reply"
+MSG_0785,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0786,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0787,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0788,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0789,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0790,Personal Information,0.77,The message containes personal or profile related information
+MSG_0791,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0792,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0793,Promotional,0.8,Promotional Language Detected Please note: Please join
+MSG_0794,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0795,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0796,Personal Information,0.77,The message containes personal or profile related information
+MSG_0797,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0798,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0799,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0800,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0801,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0802,Sensitive Information,0.99,Sensitive Information Detected : contact_or_address
+MSG_0803,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0804,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0805,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0806,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0807,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0808,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0809,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0810,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0811,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0812,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0813,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0814,Promotional,0.85,"Promotional Language Detected by 2026-09-05 , Please complete"
+MSG_0815,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0816,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0817,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0818,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0819,Meeting or Event,0.8,Meeting or Event Detected meeting
+MSG_0820,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0821,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0822,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0823,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0824,Promotional,0.85,"Promotional Language Detected by 2026-09-07 , Please submit"
+MSG_0825,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0826,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0827,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0828,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0829,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0830,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0831,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0832,Promotional,0.8,Promotional Language Detected Please note: Join
+MSG_0833,Personal Information,0.87,The message containes personal or profile related information
+MSG_0834,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0835,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0836,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0837,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0838,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0839,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0840,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0841,Promotional,0.8,Promotional Language Detected Please join
+MSG_0842,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0843,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0844,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0845,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0846,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0847,Promotional,0.8,Promotional Language Detected Please join
+MSG_0848,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0849,Promotional,0.8,Promotional Language Detected Please note: Are you available for the design review
+MSG_0850,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0851,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0852,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0853,Promotional,0.85,"Promotional Language Detected by 2026-09-10 , Please reply"
+MSG_0854,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0855,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0856,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0857,Personal Information,0.87,The message containes personal or profile related information
+MSG_0858,Personal Information,0.77,The message containes personal or profile related information
+MSG_0859,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0860,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0861,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-11 at"
+MSG_0862,Promotional,0.85,"Promotional Language Detected Don't forget , deadline"
+MSG_0863,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0864,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , need you to"
+MSG_0865,Promotional,0.85,"Promotional Language Detected by 2026-09-08 , need you to"
+MSG_0866,Meeting or Event,0.85,"Meeting or Event Detected catch-up , Reminder: mentor catch-up happens on 2026-09-06 at"
+MSG_0867,Personal Information,0.77,The message containes personal or profile related information
+MSG_0868,Meeting or Event,0.8,Meeting or Event Detected scheduled
+MSG_0869,Personal Information,0.77,The message containes personal or profile related information
+MSG_0870,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0871,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0872,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0873,Promotional,0.8,Promotional Language Detected Please join
+MSG_0874,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0875,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0876,Personal Information,0.77,The message containes personal or profile related information
+MSG_0877,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0878,Meeting or Event,0.85,"Meeting or Event Detected scheduled , Meeting"
+MSG_0879,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0880,Sensitive Information,0.99,Sensitive Information Detected : one_time_password
+MSG_0881,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0882,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0883,Promotional,0.85,"Promotional Language Detected by 2026-09-02 , need you to"
+MSG_0884,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0885,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0886,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0887,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0888,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0889,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0890,Sensitive Information,0.99,Sensitive Information Detected : payment_details
+MSG_0891,Personal Information,0.77,The message containes personal or profile related information
+MSG_0892,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0893,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0894,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0895,Promotional,0.8,Promotional Language Detected Please join
+MSG_0896,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0897,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
+MSG_0898,Promotional,0.85,"Promotional Language Detected by 2026-09-06 , Please complete"
+MSG_0899,Personal Information,0.77,The message containes personal or profile related information
+MSG_0900,General Information,0.7,"The message provides general information without a clear action, event, promotional, personal or sensitive information"
